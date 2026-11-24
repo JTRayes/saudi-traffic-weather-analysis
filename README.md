@@ -120,4 +120,4 @@ The notebook was written for Google Colab. Open it in Colab, run the cells in or
 
 ## Team
 
-Team project with Layan Alfadhel, Rama Alowlah, Manar Almousa and Ruyuf Alsayari.
+Built as a team of five students.
